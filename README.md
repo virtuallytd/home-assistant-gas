@@ -1,2 +1,3 @@
-# home-assistant-gas
-🔥 The power of gas measurements in your house
+# Home Assistant Gas
+
+I have taken inspiration from [Home Assistant Glow](https://github.com/klaasnicolaas/home-assistant-glow)
